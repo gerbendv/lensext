@@ -1,0 +1,16 @@
+{
+	"__internal__": {
+		"migrations": {
+			"version": "6.5.0"
+		}
+	},
+	"extensions": [
+		[
+			"$HOME/.config/OpenLens/node_modules/@alebcay/openlens-node-pod-menu/package.json",
+			{
+				"enabled": true,
+				"name": "@alebcay/openlens-node-pod-menu"
+			}
+		]
+	]
+}

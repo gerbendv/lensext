@@ -1,0 +1,5 @@
+{
+  "optionalDependencies": {
+    "@alebcay/openlens-node-pod-menu": "file:../../.k8slens/extensions/alebcay--openlens-node-pod-menu"
+  }
+}
